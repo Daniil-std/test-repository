@@ -1,3 +1,3 @@
 # test-repository
 
-i am studying at Matw Academy!
+i am studying at Mate Academy!
